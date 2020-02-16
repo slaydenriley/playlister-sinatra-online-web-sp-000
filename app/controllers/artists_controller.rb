@@ -10,3 +10,5 @@ class ArtistsController < ApplicationController
     erb :'artists/show'
   end
 end
+
+#rspec spec/features/04_basic_view_spec.rb
